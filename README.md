@@ -70,5 +70,5 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 If you have any questions or feedback, feel free to reach out:
 
 - **Your Name**: [Ayesha Nasir]
-- **GitHub**: [https://github.com/AyeshaNasirWebDeveloper/CRUD-React-App.git]
+- **GitHub**: [https://github.com/AyeshaNasirWebDeveloper/]
 - **LinkedIn**: [https://www.linkedin.com/in/ayeshanasirwin/]
