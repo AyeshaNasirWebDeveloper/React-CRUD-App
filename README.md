@@ -25,7 +25,7 @@ This is a **Firebase-based Product Management App** built with React, Vite, and 
 
 ## Live Demo
 
-You can check out the live demo of the app here: 
+You can check out the live demo of the app here: https://react-crud-b5f9h9a8b-ayeshanasirwebdevelopers-projects.vercel.app/
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Follow these steps to set up the project locally on your machine.
 
 1. **Clone the repository**:
    
-   Github Repo Link: 
+   Github Repo Link: https://github.com/AyeshaNasirWebDeveloper/React-CRUD-App
 
 2. **Install dependencies**:
    
